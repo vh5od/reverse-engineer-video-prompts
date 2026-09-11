@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考视频提示词反推"
+  short_description: "分析参考视频效果，并按固定 JSON 结构重构生成提示词"
+  default_prompt: "Use $reverse-engineer-video-prompts to analyze this reference video and return the final prompt in the skill's default JSON structure."
